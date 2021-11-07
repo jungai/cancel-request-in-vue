@@ -1,0 +1,14 @@
+{
+  "0 debug pnpm:scope": {
+    "selected": 1
+  },
+  "1 error pnpm": {
+    "code": "ERR_PNPM_NO_SCRIPT",
+    "err": {
+      "name": "Error",
+      "message": "Missing script: ui",
+      "code": "ERR_PNPM_NO_SCRIPT",
+      "stack": "Error: Missing script: ui\n    at Object.handler (/Users/jungai/.asdf/installs/pnpm/6.3.0/dist/pnpm.cjs:117130:13)\n    at async Timeout._onTimeout (/Users/jungai/.asdf/installs/pnpm/6.3.0/dist/pnpm.cjs:121003:22)"
+    }
+  }
+}
